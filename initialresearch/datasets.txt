@@ -1,0 +1,43 @@
+COVID-19 Nursing Home Dataset
+https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp
+
+Provisional COVID-19 Death Counts by Sex, Age, and State
+https://catalog.data.gov/dataset/provisional-covid-19-death-counts-by-sex-age-and-state
+
+Coronavirus (COVID-19) in Prisons in the United States, April - June 2020
+https://www.openicpsr.org/openicpsr/project/119901/version/V1/view;jsessionid=A18EA1EB5E45F5D39952CC29FAB97AAC?path=/openicpsr/119901/fcr:versions/V1/facilities_covid_prison_data.csv&type=file
+
+Veteran Mortality Report
+https://catalog.data.gov/dataset/veteran-mortality-report
+
+Mali - COVID-19 Panel Phone Survey of Households 2020
+https://datasetsearch.research.google.com/search?query=2020&docid=L2cvMTFrZHBwZGg0eQ%3D%3D
+
+Personal savings in the U.S. - Statistics & Facts:
+https://www.statista.com/topics/1134/personal-savings/
+
+annual incomes: 
+http://www.bls.gov/cew/data/api/2019/a/industry/10.csv  (2020)
+https://data.bls.gov/cew/doc/access/csv_data_slices.htm#ANNUAL_LAYOUT
+
+population, birth, death:
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_739801612
+
+
+
+
+
+clinical trials:
+
+Statista: Total number of registered clinical studies worldwide since 2000
+https://datasetsearch.research.google.com/search?query=Total%20per-study%20costs%20by%20clinical%20trial%20phase%20and%20therapeutic%20area&docid=L2cvMTFsOHAwOTVsZw%3D%3D
+
+https://aact.ctti-clinicaltrials.org/pipe_files
+https://aact.ctti-clinicaltrials.org/covid_19
+
+https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&year=2020&qtr=3&own=5&ind=10&supp=0
+https://www.bls.gov/cew/about-data/documentation-guide.htm
+
+
+
+
